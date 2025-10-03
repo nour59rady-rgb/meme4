@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>تجربة أولى</title>
+</head>
+<body style="text-align:center; font-family: Arial; background-color:#f0f0f0;">
+
+    <h1 style="color:blue;">أهلا بيك 👋</h1>
+    <p style="font-size:20px;">دي أول صفحة HTML بتتعمل عندك</p>
+    <p style="color:green;">Not bad 👍</p>
+
+</body>
+</html>
